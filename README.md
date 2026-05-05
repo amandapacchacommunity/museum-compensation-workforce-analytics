@@ -1,125 +1,39 @@
-# Project3 — Museum Compensation Analysis
+# Museum Compensation & Workforce Analytics Dashboard (2025)
 
-Project3 models compensation analytics for a large Manhattan museum with a **$250M operating budget**.  
-The project simulates workforce compensation data and produces analytics similar to those used in **executive compensation reviews and HR strategy planning**.
+## Overview
+This project is a synthetic compensation and workforce analytics dashboard designed around a large Manhattan museum environment.
 
-The system analyzes workforce structure, compensation levels, retention patterns, market benchmarking, and living wage comparisons.
+It models workforce data across multiple fiscal years to demonstrate pay analysis, equity review, budget context, and executive decision support.
 
----
+## What This Demonstrates
+- Compensation analysis
+- Workforce analytics
+- Pay equity review
+- Salary and budget modeling
+- Executive-ready HR reporting
 
-# Dashboard
+## Key Features
+- Synthetic workforce dataset
+- Multi-year employee model
+- Compensation and salary views
+- Equity-oriented analysis
+- Dashboard-style reporting for leadership
 
-Interactive dashboard:
+## Example Use Cases
+This type of model could support:
+- HR compensation planning
+- Pay equity reviews
+- Workforce strategy
+- Budget forecasting
+- Executive and board reporting
 
-https://amandapacchacommunity.github.io/Project3/
+## Data Note
+All data is synthetic and created for demonstration purposes only. No real employee, salary, museum, or institutional data is represented.
 
-The dashboard visualizes:
+## About This Work
+This project reflects the connection between workforce data, institutional equity, financial planning, and decision support.
 
-• retention metrics  
-• salary distribution across departments  
-• job ladder compensation levels  
-• frontline vs non-frontline workforce pay  
-• market benchmark variance  
-• living wage gap analysis  
-
----
-
-# Key Analytics
-
-## Workforce Metrics
-
-The project evaluates workforce structure including:
-
-- headcount by department
-- retention rates
-- workforce pyramid structure
-- frontline vs leadership staffing levels
-
-Departments modeled include:
-
-- Curatorial
-- Visitor Services
-- Security
-- Facilities
-- Education & School Programs
-- Retail / Museum Store
-- Development & Gala
-- Marketing
-- IT
-- HR
-- Finance
-- Legal
-
----
-
-## Compensation Metrics
-
-The analysis evaluates:
-
-- median salary by department
-- median salary by job ladder level
-- salary distribution across workforce tiers
-- salary compression risks
-- frontline vs administrative pay gaps
-
----
-
-## Job Ladder Architecture
-
-Roles follow a **generic global job architecture framework** used in compensation analysis:
-
-| Level | Description |
-|------|-------------|
-| IC1 | Entry Individual Contributor |
-| IC2 | Intermediate Contributor |
-| IC3 | Senior Individual Contributor |
-| Manager | Team leadership |
-| Senior Manager | Department leadership |
-| Director | Strategic leadership |
-| Executive | Organizational leadership |
-
-Each level has associated compensation bands used in analytics.
-
----
-
-## Living Wage Analysis
-
-The project compares employee salaries to a **New York City living wage benchmark**.
-
-Metrics include:
-
-- percentage of workforce below living wage
-- department-level wage gaps
-- estimated cost to raise staff to living wage levels
-
-This analysis highlights workforce equity considerations for large cultural institutions.
-
----
-
-## Market Benchmarking
-
-Museum compensation levels are compared against **generic compensation survey benchmarks**.
-
-Benchmark data represents aggregated results from:
-
-- nonprofit cultural institutions
-- nonprofit and education employers
-- national arts workforce surveys
-
-Variance is calculated relative to market median salaries.
-
-Roles are classified as:
-
-- Below Market
-- Within Market Range
-- Above Market
-
----
-
-# Data Model
-
-Synthetic workforce data simulates approximately:
-
-**850 employees per year across 3 fiscal years**
-
-Total dataset:
+## Author
+Amanda Paccha  
+Institutional Strategy, Governance & Decision Support  
+GitHub: https://github.com/amandapacchacommunity
